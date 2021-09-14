@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The ROMB dataset contains naturally blurry and sharp image pairs with fast-moving objects (car only for the time being). It aims to serve as a better benchmark dataset for image motion deblurring in real scene. In general, the ROMB dataset contains 13452 pairs of cars, captured in 16 scenarios. For the purpose of evaluation, we randomly select 10 scenarios as the training set and the rest 6 scenarios as the test set, resulting in 8533 pairs of training images and 4919 pairs of test images. 
+The ROMB dataset contains naturally blurry and sharp image pairs of fast-moving objects (car only for the time being). It aims to serve as a better benchmark dataset for image motion deblurring in real scene. In general, the ROMB dataset contains 13452 pairs of cars, captured in 16 scenarios. For the purpose of evaluation, we randomly select 10 scenarios as the training set and the rest 6 scenarios as the test set, resulting in 8533 pairs of training images and 4919 pairs of test images. 
 
 To construct this dataset, we introduce an easy-to-set-up dual-camera capturing system, and a data cleaning method using PSNR metric and the sliding window technique. For more details, please refer to our technique report: [Edge Prior Augmented Networks for Motion Deblurring on Naturally Blurry Images](https://github.com/jay19950/ROMB_dataset).
 
