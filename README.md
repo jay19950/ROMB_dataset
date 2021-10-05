@@ -11,7 +11,7 @@ To construct this dataset, we introduce an easy-to-set-up dual-camera capturing 
 
 ## How to download
 
-The ROMB dataset can be downloaded at [Google Drive](https://drive.google.com/file/d/1_k8eSpfcZ889MvTcO1gWpr-J_Lo7n7op/view?usp=sharing).
+The ROMB dataset can be downloaded at [Google Drive](https://drive.google.com/file/d/1sXohdq8aZBbmXF8eTTI1XC4OxfeDFnz_/view).
 
 Since ROMB contains sensitive contents, *e.g.*, license plate number, we have encrypted the dataset files. To obtain the decrypt password, you are required to fill out an agreement to the [ROMB Terms of Use](https://raw.githubusercontent.com/jay19950/ROMB_dataset/main/ROMB_TOS.pdf), and send it to us at [Email Address].
 
